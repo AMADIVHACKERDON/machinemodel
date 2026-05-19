@@ -1,5 +1,5 @@
 import numpy as np
-from lawyer import Layer
+from base_layer import Layer
 
 
 class Activation(Layer):
