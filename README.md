@@ -135,17 +135,13 @@ Epoch 5/5
 313/313 ━━━━━━━━━━━━━━━━━━━━ 1s 3ms/step - accuracy: 0.9771 - loss: 0.0714    
 Tested Acc: 0.9771000146865845
 
-## Model Accuracy
+## 📈 Model Accuracy
 
-![Accuracy]("C:\Users\VP\Downloads\imaage\Model Accuracy.png")
+![Model Accuracy](images/model_accuracy.png)
 
-## Model Loss
+## 📉 Model Loss
 
-![Loss]("C:\Users\VP\Downloads\imaage\Model Loss.png")
-```
-## 📉 Training Loss
-
-![Training Loss](images/loss.png)
+![Model Loss](images/model_loss.png)
 ## 🤝 Contributions
 
 Contributions, suggestions, and improvements are welcome.
