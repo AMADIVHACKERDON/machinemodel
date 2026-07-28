@@ -116,7 +116,36 @@ python Dense_embeddLayer.py
 - Organize files into modules
 
 ---
+## 📊 Results
 
+The neural network was trained on the MNIST handwritten digit dataset.
+
+### Model Performance
+
+Epoch 1/5
+1875/1875 ━━━━━━━━━━━━━━━━━━━━ 13s 6ms/step - accuracy: 0.9276 - loss: 0.2554   
+Epoch 2/5
+1875/1875 ━━━━━━━━━━━━━━━━━━━━ 8s 4ms/step - accuracy: 0.9666 - loss: 0.1126   
+Epoch 3/5
+1875/1875 ━━━━━━━━━━━━━━━━━━━━ 11s 4ms/step - accuracy: 0.9772 - loss: 0.0764   
+Epoch 4/5
+1875/1875 ━━━━━━━━━━━━━━━━━━━━ 10s 4ms/step - accuracy: 0.9821 - loss: 0.0582   
+Epoch 5/5
+1875/1875 ━━━━━━━━━━━━━━━━━━━━ 8s 4ms/step - accuracy: 0.9864 - loss: 0.0448   
+313/313 ━━━━━━━━━━━━━━━━━━━━ 1s 3ms/step - accuracy: 0.9771 - loss: 0.0714    
+Tested Acc: 0.9771000146865845
+
+## Model Accuracy
+
+![Accuracy]("C:\Users\VP\Downloads\imaage\Model Accuracy.png")
+
+## Model Loss
+
+![Loss]("C:\Users\VP\Downloads\imaage\Model Loss.png")
+```
+## 📉 Training Loss
+
+![Training Loss](images/loss.png)
 ## 🤝 Contributions
 
 Contributions, suggestions, and improvements are welcome.
